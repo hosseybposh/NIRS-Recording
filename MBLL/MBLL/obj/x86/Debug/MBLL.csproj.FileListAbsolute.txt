@@ -1,0 +1,214 @@
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\MBLL.exe
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\MBLL.pdb
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\ZedGraph.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\ZedGraph.xml
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\all_e_coef.csv
+E:\terme 8\project\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+E:\terme 8\project\C# stuff\MBLL\MBLL\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+K:\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+K:\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\all_e_coef.csv
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\ZedGraph.xml
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+D:\projects\Undergrad\NIR\C# stuff\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\all_e_coef.csv
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\ZedGraph.xml
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\Filter\MB's Final 15-4-93+filter\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\all_e_coef.csv
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\ZedGraph.xml
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\all_e_coef.csv
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\ZedGraph.xml
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's final, 4 channel\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\all_e_coef.csv
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.exe
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.pdb
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ZedGraph.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ZedGraph.xml
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+K:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\all_e_coef.csv
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.exe
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.pdb
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ZedGraph.xml
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+K:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+K:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+K:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+K:\New folder\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\all_e_coef.csv
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.exe
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\MBLL.pdb
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\ZedGraph.xml
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+D:\projects\Undergrad\NIR\C# stuff\FINAL\MB's revision 30-4-93\main for bluetooth\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\obj\x86\Debug\MBLL.exe
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\obj\x86\Debug\MBLL.pdb
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\all_e_coef.csv
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\MBLL.exe
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\MBLL.pdb
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\ZedGraph.xml
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\de\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\es\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\fr\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\hu\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\it\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\ja\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\pt\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\ru\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\sk\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\sv\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\tr\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\obj\x86\Debug\MBLL.csprojResolveAssemblyReference.cache
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\obj\x86\Debug\MBLL.frmMain.resources
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\obj\x86\Debug\MBLL.Properties.Resources.resources
+D:\Courses\Masters\Semester1\Bioinstrument\bioins\Project\C#\MBLL\MBLL\obj\x86\Debug\MBLL.csproj.GenerateResource.Cache
